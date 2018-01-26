@@ -1,7 +1,8 @@
 # Arduino Weather Project
 An arduino project which utilizes a lcd display and 3 sensors for temperature and humidity calculations.It is also capable of displaying real time using a RTC module.
 
-# Components 
+Components
+========
 Arduino
 ------------
 
