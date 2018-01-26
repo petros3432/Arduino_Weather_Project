@@ -4,20 +4,24 @@ An arduino project which utilizes a lcd display and 3 sensors for temperature an
 # Components 
 Arduino
 ------------
-*Arduino Uno
+
+* Arduino Uno
 
 
 Sensors
 ------------
-*DHT22 
-*BMP280
+
+* DHT22 
+* BMP280
 
 
 LCD Screen
 ------------
-*LCD 5510 Nokia
+
+* LCD 5510 Nokia
 
 
 RTC Module
 ------------
-*RTC DS3231 
+
+* RTC DS3231 
