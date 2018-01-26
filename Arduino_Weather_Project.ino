@@ -2,7 +2,7 @@
 #include <Adafruit_PCD8544.h>
 #include <DS3231.h>
 #include "DS3231.h"
-#include "DHT.h
+#include "DHT.h"
 #include "Wire.h"
 #include "SPI.h"
 #include <stdint.h>
